@@ -4,11 +4,6 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">
-          <button type="button" class="btn btn-primary">
-            Primary
-          </button>
-        </header>
         <h1>Hello World</h1>
         <footer className="git-link">
           <span> Project coded by Bethany Budzeak, </span>
