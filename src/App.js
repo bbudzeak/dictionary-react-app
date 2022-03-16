@@ -8,7 +8,7 @@ function App() {
         <footer className="git-link">
           <span> Project coded by Bethany Budzeak, </span>
           <a
-            href="https://github.com/bbudzeak/weather-react-app-project"
+            href="https://github.com/bbudzeak/dictionary-react-app"
             target="_blank"
             rel="noreferrer"
           >
