@@ -1,10 +1,13 @@
 import "./App.css";
+import SearchForm from "./SearchForm";
 
 function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Hello World</h1>
+        <main>
+          <SearchForm />
+        </main>
         <footer className="git-link">
           <span> Project coded by Bethany Budzeak, </span>
           <a

@@ -2,3 +2,9 @@
   max-width: 800px;
   margin: 40px auto;
 }
+
+footer {
+  margin: 40px;
+  text-align: center;
+  font-size: small;
+}
