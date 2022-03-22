@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <main>
-          <h1>Dictionary App</h1>
+          <h1 className="title">📚Dictionary📚</h1>
           <SearchForm />
         </main>
         <footer className="git-link">

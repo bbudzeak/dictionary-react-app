@@ -8,3 +8,9 @@ footer {
   text-align: center;
   font-size: small;
 }
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-style: italic;
+}

@@ -24,9 +24,17 @@ export default function SearchForm() {
 
   return (
     <div>
-      <form onSubmit={search}>
-        <input type="search" autoFocus={true} onChange={handleKeywordChange} />
-      </form>
+      <section>
+        <form onSubmit={search}>
+          <input
+            type="search"
+            autoFocus={true}
+            onChange={handleKeywordChange}
+            defaultValue="Search word for definition"
+          />
+        </form>
+        <div className="hint">suggested words: hike, travel, cook, coding</div>
+      </section>
       <Results results={results} />
     </div>
   );
