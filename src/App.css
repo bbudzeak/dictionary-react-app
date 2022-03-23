@@ -1,6 +1,11 @@
 .container {
-  max-width: 800px;
+  max-width: 700px;
   margin: 40px auto;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 footer {
@@ -11,6 +16,5 @@ footer {
 
 .title {
   text-align: center;
-  font-size: 24px;
-  font-style: italic;
+  font-size: 30px;
 }
